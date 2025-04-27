@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/7394a0186dd34026b4f4a87d15f005fb/artifacts
+deleted_time: 1745754849593
+end_time: 1745754195710
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: 7394a0186dd34026b4f4a87d15f005fb
+run_name: defiant-quail-122
+run_uuid: 7394a0186dd34026b4f4a87d15f005fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754195581
+status: 3
+tags: []
+user_id: Aniket.ugale

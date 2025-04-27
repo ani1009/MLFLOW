@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745757928412
+current_stage: None
+description: ''
+last_updated_timestamp: 1745757928412
+name: Aniket_Model1
+run_id: 1f7c5a481f764bbc9fd8e40ada0cae3b
+run_link: ''
+source: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/1f7c5a481f764bbc9fd8e40ada0cae3b/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/1f7c5a481f764bbc9fd8e40ada0cae3b/artifacts/random_forest
+user_id: null
+version: 1

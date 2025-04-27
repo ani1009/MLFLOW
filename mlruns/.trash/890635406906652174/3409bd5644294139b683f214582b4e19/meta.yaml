@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/3409bd5644294139b683f214582b4e19/artifacts
+deleted_time: 1745754849593
+end_time: 1745754210014
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: 3409bd5644294139b683f214582b4e19
+run_name: bemused-yak-670
+run_uuid: 3409bd5644294139b683f214582b4e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754184431
+status: 3
+tags: []
+user_id: Aniket.ugale

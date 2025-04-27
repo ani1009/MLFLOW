@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/34fce7bd9f36462b98d3e32f4231ff59/artifacts
+deleted_time: 1745754849593
+end_time: 1745754194636
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: 34fce7bd9f36462b98d3e32f4231ff59
+run_name: indecisive-dog-384
+run_uuid: 34fce7bd9f36462b98d3e32f4231ff59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754194514
+status: 3
+tags: []
+user_id: Aniket.ugale

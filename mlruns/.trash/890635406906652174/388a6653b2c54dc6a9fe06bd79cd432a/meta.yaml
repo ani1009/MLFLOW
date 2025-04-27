@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/388a6653b2c54dc6a9fe06bd79cd432a/artifacts
+deleted_time: 1745754849593
+end_time: 1745754194352
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: 388a6653b2c54dc6a9fe06bd79cd432a
+run_name: dapper-shoat-802
+run_uuid: 388a6653b2c54dc6a9fe06bd79cd432a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754194220
+status: 3
+tags: []
+user_id: Aniket.ugale

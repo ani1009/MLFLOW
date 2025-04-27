@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/8d57a7f0a95549309ee19c42fa1506e4/artifacts
+deleted_time: 1745754849593
+end_time: 1745754195554
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: 8d57a7f0a95549309ee19c42fa1506e4
+run_name: capable-kite-704
+run_uuid: 8d57a7f0a95549309ee19c42fa1506e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754195436
+status: 3
+tags: []
+user_id: Aniket.ugale

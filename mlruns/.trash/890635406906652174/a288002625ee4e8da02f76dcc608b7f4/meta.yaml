@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/a288002625ee4e8da02f76dcc608b7f4/artifacts
+deleted_time: 1745754849593
+end_time: 1745754195044
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: a288002625ee4e8da02f76dcc608b7f4
+run_name: bold-ape-903
+run_uuid: a288002625ee4e8da02f76dcc608b7f4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754194784
+status: 3
+tags: []
+user_id: Aniket.ugale

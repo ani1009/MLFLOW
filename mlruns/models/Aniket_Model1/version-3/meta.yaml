@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745758141140
+current_stage: None
+description: ''
+last_updated_timestamp: 1745758141140
+name: Aniket_Model1
+run_id: a12547ef99754425878696ce55468734
+run_link: ''
+source: models:/Aniket_Model1/2
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/184486033258707390/a12547ef99754425878696ce55468734/artifacts/model
+user_id: null
+version: 3

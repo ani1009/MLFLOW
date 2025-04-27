@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/860309325322326595/8645b0e401b744aeb8d5ec0aab0b6fef/artifacts
+end_time: 1745589692126
+entry_point_name: ''
+experiment_id: '860309325322326595'
+lifecycle_stage: active
+run_id: 8645b0e401b744aeb8d5ec0aab0b6fef
+run_name: wistful-elk-316
+run_uuid: 8645b0e401b744aeb8d5ec0aab0b6fef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745589691877
+status: 3
+tags: []
+user_id: Aniket.ugale

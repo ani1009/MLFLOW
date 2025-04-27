@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/f961ec26c8a040499f2b9573b5395837/artifacts
+deleted_time: 1745754849593
+end_time: 1745754195167
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: f961ec26c8a040499f2b9573b5395837
+run_name: serious-sheep-516
+run_uuid: f961ec26c8a040499f2b9573b5395837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754195063
+status: 3
+tags: []
+user_id: Aniket.ugale

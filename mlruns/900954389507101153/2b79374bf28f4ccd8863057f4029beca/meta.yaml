@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/2b79374bf28f4ccd8863057f4029beca/artifacts
+end_time: 1745754791116
+entry_point_name: ''
+experiment_id: '900954389507101153'
+lifecycle_stage: active
+run_id: 2b79374bf28f4ccd8863057f4029beca
+run_name: omniscient-moose-797
+run_uuid: 2b79374bf28f4ccd8863057f4029beca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754790970
+status: 3
+tags: []
+user_id: Aniket.ugale

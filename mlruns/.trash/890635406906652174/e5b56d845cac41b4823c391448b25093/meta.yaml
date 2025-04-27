@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/e5b56d845cac41b4823c391448b25093/artifacts
+deleted_time: 1745754849593
+end_time: 1745754195293
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: e5b56d845cac41b4823c391448b25093
+run_name: smiling-bat-826
+run_uuid: e5b56d845cac41b4823c391448b25093
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754195182
+status: 3
+tags: []
+user_id: Aniket.ugale

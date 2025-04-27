@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/6475934aebe54616b66d3faf8fd8d2f3/artifacts
+end_time: 1745754792773
+entry_point_name: ''
+experiment_id: '900954389507101153'
+lifecycle_stage: active
+run_id: 6475934aebe54616b66d3faf8fd8d2f3
+run_name: adorable-chimp-966
+run_uuid: 6475934aebe54616b66d3faf8fd8d2f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754792621
+status: 3
+tags: []
+user_id: Aniket.ugale

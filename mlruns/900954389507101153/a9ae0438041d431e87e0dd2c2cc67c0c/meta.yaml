@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/a9ae0438041d431e87e0dd2c2cc67c0c/artifacts
+end_time: 1745754792270
+entry_point_name: ''
+experiment_id: '900954389507101153'
+lifecycle_stage: active
+run_id: a9ae0438041d431e87e0dd2c2cc67c0c
+run_name: glamorous-wasp-775
+run_uuid: a9ae0438041d431e87e0dd2c2cc67c0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754792143
+status: 3
+tags: []
+user_id: Aniket.ugale

@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/890635406906652174/cbc3d0beee8b456eaf987dda98316be8/artifacts
+deleted_time: 1745754849593
+end_time: 1745754195421
+entry_point_name: ''
+experiment_id: '890635406906652174'
+lifecycle_stage: deleted
+run_id: cbc3d0beee8b456eaf987dda98316be8
+run_name: bold-calf-74
+run_uuid: cbc3d0beee8b456eaf987dda98316be8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754195308
+status: 3
+tags: []
+user_id: Aniket.ugale

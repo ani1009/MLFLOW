@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/860309325322326595/ed5590686756458b8328a27454e3bb1d/artifacts
+end_time: 1745600794344
+entry_point_name: ''
+experiment_id: '860309325322326595'
+lifecycle_stage: active
+run_id: ed5590686756458b8328a27454e3bb1d
+run_name: likeable-shrike-484
+run_uuid: ed5590686756458b8328a27454e3bb1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745600778327
+status: 3
+tags: []
+user_id: Aniket.ugale

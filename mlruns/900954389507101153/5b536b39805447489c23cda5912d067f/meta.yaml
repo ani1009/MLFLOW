@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/5b536b39805447489c23cda5912d067f/artifacts
+end_time: 1745754791447
+entry_point_name: ''
+experiment_id: '900954389507101153'
+lifecycle_stage: active
+run_id: 5b536b39805447489c23cda5912d067f
+run_name: marvelous-fowl-197
+run_uuid: 5b536b39805447489c23cda5912d067f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754791305
+status: 3
+tags: []
+user_id: Aniket.ugale

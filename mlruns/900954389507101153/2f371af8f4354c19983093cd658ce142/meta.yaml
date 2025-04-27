@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/2f371af8f4354c19983093cd658ce142/artifacts
+end_time: 1745754792119
+entry_point_name: ''
+experiment_id: '900954389507101153'
+lifecycle_stage: active
+run_id: 2f371af8f4354c19983093cd658ce142
+run_name: stately-colt-243
+run_uuid: 2f371af8f4354c19983093cd658ce142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754791960
+status: 3
+tags: []
+user_id: Aniket.ugale

@@ -1,0 +1,65 @@
+Result without Using Mlflow:
+
+Fitting 5 folds for each of 12 candidates, totalling 60 fits
+[CV] END ....................max_depth=None, n_estimators=10; total time=   0.0s
+[CV] END ....................max_depth=None, n_estimators=10; total time=   0.0s
+[CV] END ....................max_depth=None, n_estimators=10; total time=   0.0s
+[CV] END ....................max_depth=None, n_estimators=10; total time=   0.0s
+[CV] END ....................max_depth=None, n_estimators=10; total time=   0.0s
+[CV] END ....................max_depth=None, n_estimators=50; total time=   0.2s
+[CV] END ....................max_depth=None, n_estimators=50; total time=   0.2s
+[CV] END ....................max_depth=None, n_estimators=50; total time=   0.2s
+[CV] END ....................max_depth=None, n_estimators=50; total time=   0.2s
+[CV] END ...................max_depth=None, n_estimators=100; total time=   0.4s
+[CV] END ...................max_depth=None, n_estimators=100; total time=   0.4s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=10, n_estimators=10; total time=   0.0s
+[CV] END ...................max_depth=None, n_estimators=100; total time=   0.5s
+[CV] END ....................max_depth=None, n_estimators=50; total time=   0.2s
+[CV] END ...................max_depth=None, n_estimators=100; total time=   0.5s
+[CV] END ...................max_depth=None, n_estimators=100; total time=   0.5s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=10, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=10; total time=   0.0s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.5s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.6s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.6s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.3s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.2s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.6s
+[CV] END .....................max_depth=10, n_estimators=100; total time=   0.6s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=20, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END ......................max_depth=30, n_estimators=10; total time=   0.0s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.5s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.5s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.5s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.2s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.5s
+[CV] END .....................max_depth=20, n_estimators=100; total time=   0.5s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.2s
+[CV] END ......................max_depth=30, n_estimators=50; total time=   0.2s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.4s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.4s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.4s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.4s
+[CV] END .....................max_depth=30, n_estimators=100; total time=   0.5s
+{'max_depth': None, 'n_estimators': 100}
+0.9582417582417582

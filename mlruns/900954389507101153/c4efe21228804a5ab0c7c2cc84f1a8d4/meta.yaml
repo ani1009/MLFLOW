@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/c4efe21228804a5ab0c7c2cc84f1a8d4/artifacts
+end_time: 1745754792411
+entry_point_name: ''
+experiment_id: '900954389507101153'
+lifecycle_stage: active
+run_id: c4efe21228804a5ab0c7c2cc84f1a8d4
+run_name: learned-gnat-957
+run_uuid: c4efe21228804a5ab0c7c2cc84f1a8d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754792283
+status: 3
+tags: []
+user_id: Aniket.ugale

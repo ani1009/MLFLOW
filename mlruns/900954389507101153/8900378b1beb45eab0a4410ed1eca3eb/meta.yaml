@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Mlflow/MLFLOW/mlruns/900954389507101153/8900378b1beb45eab0a4410ed1eca3eb/artifacts
+end_time: 1745754791761
+entry_point_name: ''
+experiment_id: '900954389507101153'
+lifecycle_stage: active
+run_id: 8900378b1beb45eab0a4410ed1eca3eb
+run_name: rare-mare-49
+run_uuid: 8900378b1beb45eab0a4410ed1eca3eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745754791633
+status: 3
+tags: []
+user_id: Aniket.ugale
